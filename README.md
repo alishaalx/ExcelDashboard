@@ -12,3 +12,6 @@ Once the orders is completed Sales column is created by multipliying unitprice a
 Now The Pivot Table is used and then created the different visualisations including a line graph showing Total Sales over time (Yearly), Total Sales By Country, and Top 5 Customers. It is combined with a Timeline based on tye OrderDate Column of the Orders and 3 slicers including Roast Type Name (Meduim,Light,Dark),Size in Kgs and Finally Based on wheather the custoemrs have Loyality Card or not.
 
 The resulting Dashboard is named as "Coffee Sales Dashboard".
+## Screenshot of the devloped dashboard
+!(<img width="1375" alt="Screenshot 2023-11-13 at 4 14 46 PM" src="https://github.com/alishaalx/ExcelDashboard/assets/122559744/32f0ef9c-0f91-4f14-b6ab-1220d89271ca">)
+
